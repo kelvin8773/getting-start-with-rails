@@ -1,24 +1,11 @@
-# README
+# Simple Blog App by Ruby on Rails Getting Start Guide
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A step by step tutorials by [RubyOnRails.org](https://guides.rubyonrails.org/getting_started.html).
 
-Things you may want to cover:
+## Note
 
-* Ruby version
+~ Basically following the Guide build this Blog App for getting the concepts of Rails.
 
-* System dependencies
+~ It include 2 models - Articles & Comments, included all CURD features in both models.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+~ Added authentication for "Delete, Edit, New"
